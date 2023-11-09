@@ -1,4 +1,4 @@
-# wzxy_jkdk.js 我在校园
+# wzxy_jkdk.py 我在校园
 
 代码做了两个功能
 健康打卡
