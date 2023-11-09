@@ -27,4 +27,7 @@ export wzxy1="{
         }"
 `
 
-# Other
+# kust_login.py 昆工官网登录查成绩
+### 修改main函数的下面部分<br>
+`os.environ['wjh'] = '{"username": "学号","password": "密码","pushtk":"pushplus token"}'`
+<br>
