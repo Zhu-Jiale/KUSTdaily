@@ -1,4 +1,4 @@
-我在校园
+# wzxy_jkdk.js 我在校园
 
 代码做了两个功能
 健康打卡
@@ -26,3 +26,5 @@ export wzxy1="{
     "mark": "备注用","pushtk":"pushplus token"
         }"
 `
+
+# Other
